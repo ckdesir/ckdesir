@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ckdesir&label=Profile%20views&color=0e75b6&style=flat" alt="ckdesir" /> </p>
 
 - 🌱 I’m currently learning architecture with Jetpack Compose on Android
-- ⚡ Fun fact: I can play 4 instruments 🎸📯🎺🎷
+- ⚡ Fun fact: I can play 3 instruments 🎸📯🎺
 - 📫 How to reach me: **christopher.desir01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
